@@ -2,7 +2,7 @@
 
 ## OrangeFox Recovery Project for Lenovo Tab M10 FHD Plus
 
-## About Device
+### About Device
 
 Recovery Device Tree for Lenovo Smart Tab M10 FHD Plus wifi (TB-X606F)
 ======================================================================
