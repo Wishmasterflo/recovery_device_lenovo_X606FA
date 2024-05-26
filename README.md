@@ -4,8 +4,6 @@
 
 ### About Device
 
-Recovery Device Tree for Lenovo Smart Tab M10 FHD Plus wifi (TB-X606F)
-======================================================================
 Component   | Specs
 -------:|:-------------------------
 Chipset| MediaTek Helio P22T
