@@ -17,9 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X606FA.mk
-
-COMMON_LUNCH_CHOICES := \
-    twrp_X606FA-userdebug \
-    twrp_X606FA-user \
-    twrp_X606FA-eng
+    $(LOCAL_DIR)/ofox_X606F.mk
