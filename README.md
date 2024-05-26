@@ -1,10 +1,8 @@
 <img src="https://github.com/Sanju0910/Sanju0910/blob/main/images/of_logo.png" width=100 height=100 align="left" />  
 
-## OrangeFox Recovery Project
+## OrangeFox Recovery Project for Lenovo Tab M10 FHD Plus
 
 ### About Device
-
-![Lenovo Smart Tab M10 HD](https://download.lenovo.com/images/ProdImageSmart/amazon_alexa.jpg "Lenovo Smart Tab M10 FHD Plus (TB-X606FA)")
 
 Recovery Device Tree for Lenovo Smart Tab M10 FHD Plus wifi (TB-X606F)
 ======================================================================
