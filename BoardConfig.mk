@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/lenovo/X606F
+DEVICE_PATH := device/lenovo/X606FA
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6765
@@ -37,7 +37,7 @@ TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a53
 
 # Kernel
-BOARD_KERNEL_IMAGE_NAME := x606f_zImage
+BOARD_KERNEL_IMAGE_NAME := x606fa_zImage
 TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/$(BOARD_KERNEL_IMAGE_NAME)
 
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2
