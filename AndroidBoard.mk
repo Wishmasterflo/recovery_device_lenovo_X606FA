@@ -18,6 +18,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter X606FA,$(TARGET_DEVICE)),)
+ifneq ($(filter X606F,$(TARGET_DEVICE)),)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif
