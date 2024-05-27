@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ofox_X606FA.mk
+    $(LOCAL_DIR)/ofox_X606F.mk
