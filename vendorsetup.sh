@@ -66,3 +66,6 @@ export FOX_USE_BASH_SHELL=1
 export FOX_USE_NANO_EDITOR=1
 export OF_DONT_KEEP_LOG_HISTORY=1
 export OF_NO_SPLASH_CHANGE=1
+
+# Reduce Recovery Image size
+export FOX_DRASTIC_SIZE_REDUCTION=1
