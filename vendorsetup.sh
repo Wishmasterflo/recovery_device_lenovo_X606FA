@@ -48,8 +48,11 @@ export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 export OF_QUICK_BACKUP_LIST="/boot;/data;"
 # -- end R11 settings --
 
-# -- add settings for Android 12 --
+# -- add settings for Android 12 and above --
 export OF_SKIP_DECRYPTED_ADOPTED_STORAGE=1
+
+# Set default Keymaster Version
+export OF_DEFAULT_KEYMASTER_VERSION=4.0
 
 # Use specific Magisk zip
 export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v27.0.zip
