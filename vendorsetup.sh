@@ -53,7 +53,7 @@ export OF_SKIP_DECRYPTED_ADOPTED_STORAGE=1
 export OF_DEFAULT_KEYMASTER_VERSION=4.0
 
 # Use specific Magisk zip
-export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v28.0.zip
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v28.1.zip
 
 # Dont install AROMAFM
 export FOX_DELETE_AROMAFM=1
